@@ -6,19 +6,19 @@ labels: ["channel-mati"]
 ---
 
 **Nama channel:**
-<!-- mis. SCTV, beIN Sports 1 -->
+<!--inews tv. RCTI SPORTS-->
 
 **Grup (group-title):**
-<!-- mis. Indonesia Channels, Sports, ⚽ Bola Indonesia -->
+<!-- indonesia Channels -->
 
 **Apa yang terjadi?**
-<!-- mis. layar hitam, buffering terus, error -->
+<!--layar hitam, buffering terus, error, dan bukan inews tv, itu channel arab saudi -->
 
 **Pesan error (kalau ada):**
-<!-- mis. "siaran ini tidak didukung" -->
+<!--"siaran ini tidak didukung" -->
 
 **Player & perangkat:**
-<!-- mis. TiviMate di Android TV, VLC di Windows -->
+<!--VLC di Windows -->
 
 ---
 > ⚠️ Channel **(V+) / (DASH/MPD)** pakai DRM dan butuh TiviMate / OTT Navigator / Kodi (bukan VLC). Itu bukan channel mati — cek [README → FAQ](../../README.md#-faq) dulu ya.
