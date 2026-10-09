@@ -6,19 +6,19 @@ labels: ["channel-mati"]
 ---
 
 **Nama channel:**
-<!-- mis. SCTV, beIN Sports 1 -->
+<!-- TRANS TV, TRANS 7 & TRANS 7 Cad, RCTI, INEWS TV, MNCTV, GTV-->
 
 **Grup (group-title):**
-<!-- mis. Indonesia Channels, Sports, ⚽ Bola Indonesia -->
+<!-- Indonesia Channels, ⚽ Bola Indonesia -->
 
 **Apa yang terjadi?**
-<!-- mis. layar hitam, buffering terus, error -->
+<!--layar hitam, buffering terus, error -->
 
 **Pesan error (kalau ada):**
-<!-- mis. "siaran ini tidak didukung" -->
+<!--Siaran Tidak Bisa Didukung. Linknya Eror.-->
 
 **Player & perangkat:**
-<!-- mis. TiviMate di Android TV, VLC di Windows -->
+<!-- VLC di Windows -->
 
 ---
 > ⚠️ Channel **(V+) / (DASH/MPD)** pakai DRM dan butuh TiviMate / OTT Navigator / Kodi (bukan VLC). Itu bukan channel mati — cek [README → FAQ](../../README.md#-faq) dulu ya.
